@@ -1,0 +1,10 @@
+numpy
+jupyter
+matplotlib  
+scipy       
+toml        
+tqdm        
+isort       
+multiset    
+icecream    
+scikit-learn
